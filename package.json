@@ -1,0 +1,11 @@
+{
+  "name": "@lucasdrta/rn-ios-system-tokens",
+  "version": "1.0.0",
+  "description": "Native iOS System Fonts and Colors for React Native",
+  "main": "index.ts",
+  "types": "index.ts",
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*"
+  }
+}
